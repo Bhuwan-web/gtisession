@@ -4,5 +4,9 @@ int main(){
     a=5;
     b=3;
     sum=a+b;
-    printf("the sum of two number is %d",sum);
+    printf("the sum of two number is %d\n",sum);
+
+    for(i=1;i<=10;i++){
+        printf("%d\n",i);
+    }
 }
