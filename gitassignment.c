@@ -6,7 +6,7 @@ int main(){
     sum=a+b;
     printf("the sum of two number is %d\n",sum);
 
-    for(i=1;i<=10;i++){
+    for(int i=1;i<=10;i++){
         printf("%d\n",i);
     }
 }
